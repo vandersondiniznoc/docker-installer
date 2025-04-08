@@ -76,4 +76,3 @@ esac
 
 echo "✅ Docker e Docker Compose instalados com sucesso!"
 echo "🚀 Teste com: docker run hello-world"
-"Adiciona script de instalação do Docker e Docker Compose".
